@@ -100,7 +100,7 @@
 		<!--End mc_embed_signup-->
 		</div>
 		<div class="row align-center social-links">
-			<p>Follow us: </p> </br>
+			<p>Follow us: </p>
 <a href="https://www.instagram.com/inheritanceproject/">Instagram</a><a href="https://www.facebook.com/theinheritanceprojectny/">Facebook</a>
 
 		</div>
