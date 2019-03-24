@@ -1,0 +1,149 @@
+body,html {
+	width: 100%;
+	background: #F4F0EA;;
+	margin: 0;
+}
+.timeline {
+	width: 90%;
+	margin-right: auto;
+	margin-left: auto;
+	margin-bottom: 0;
+	margin-top: 0;
+	border-right-color: #ffffff;
+	border-left-color: #ffffff;
+	border-right-width: 10px;
+	border-left-width: 10px;
+	border-right-style: solid;
+	border-left-style: solid;
+	height: 100%;
+}
+
+@font-face {
+  font-family: Arvo;
+  src: url("uploads/fonts/Arvo-Regular.ttf");
+}
+
+@font-face {
+  font-family: lato;
+  src: url("uploads/fonts/Lato-black");
+	font-weight: black;
+}
+@font-face {
+  font-family: lato-light;
+  src: url("uploads/fonts/Lato-light");
+	font-weight: light;
+}
+@font-face {
+  font-family: lato-light-italic;
+  src: url("uploads/fonts/Lato-lightitalic");
+	font-weight: light-italic;
+}
+@font-face {
+  font-family: lato-semibold;
+  src: url("uploads/fonts/Lato-Semibold.ttf");
+	font-weight: semibold;
+}
+
+a {
+	padding: 10px;
+}
+
+h1 {
+	margin-top: 0;
+	font-family: Arvo;
+	font-size: 40pt;
+}
+
+h2 {
+	font-family: Arvo;
+	font-size: 25pt;
+}
+h3 {
+	font-family: Arvo;
+	font-size: 16pt;
+}
+
+p {
+	font-family: lato-light;
+	font-weight: light;
+	font-size: 16pt;
+}
+
+.black {
+	font-family: lato-semibold;
+	font-weight: semibold;
+	font-size: 16pt;
+}
+
+.label {
+	font-size: 16pt;
+}
+
+body {
+	font-family: Lato Light Italic;
+	font-size: 18pt;
+}
+
+.title {
+	padding: 40px;
+	text-align: right;
+}
+
+.align-left {
+	padding: 20px;
+	width: 70%;
+	float: left;
+}
+.align-right {
+	padding: 20px;
+	width: 70%;
+	text-align: right;
+	float: right;
+}
+.align-center {
+	padding: 20px;
+	width: 70%;
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+}
+hr { 
+  display: block;
+  margin: 0;
+  border-style: solid;
+  border-width: 5px;
+	border-color: #ffffff;
+	margin-top: 70px;
+}
+
+.right-tick hr {
+	float: right;
+	width: 3%;
+	vertical-align: center;
+}
+.left-tick hr {
+	float: left;
+	width: 3%;
+	vertical-align: center;
+}
+.row:before, .row:after {
+	content: "";
+	display: table;
+}
+
+.row:after {
+	clear: both;
+}
+
+#mc_embed_signup {
+}
+
+.outline {
+	border-style: solid;
+	text-align: left;
+	padding: -10px;
+	padding-top: 0px;
+	padding-bottom: 0px;
+}
+	/* CSS Document */
+
