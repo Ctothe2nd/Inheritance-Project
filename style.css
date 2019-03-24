@@ -46,6 +46,8 @@ body,html {
 
 a {
 	padding: 10px;
+	text-decoration: none;
+	color: black;
 }
 
 h1 {
